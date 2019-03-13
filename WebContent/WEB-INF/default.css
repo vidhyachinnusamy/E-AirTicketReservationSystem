@@ -1,0 +1,26 @@
+@CHARSET "ISO-8859-1";
+.homeimage
+{
+	height:90px;
+	width:100%;
+}
+.atag
+{
+	text-decoration:none;
+}
+.nav
+{
+	text-decoration:none;
+}
+.required select:after
+{
+	content:"*";
+	color:red;
+}
+table {
+  border-collapse: collapse;
+}
+
+table, th, td {
+  border: 1px solid black;
+}

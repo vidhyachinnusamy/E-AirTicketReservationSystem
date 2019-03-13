@@ -1,0 +1,69 @@
+@CHARSET "ISO-8859-1";
+ @CHARSET "ISO-8859-1";
+.homeimage
+{
+	height:90px;
+	width:100%;
+}
+.atag
+{
+	text-decoration:none;
+}
+.asterisk
+{
+       color:red;
+}
+
+.nav
+{
+	text-decoration:none;
+}
+.required select:after
+{
+	content:"*";
+	color:red;
+}
+table {
+
+  border: 1px solid black;
+  padding:5px 5px;
+}
+
+ th,td {
+  padding:5px;
+   border: 1px solid black;
+ 
+}
+body
+{
+position:absolute;
+top:10px;
+left:380px;
+}
+#p1
+{
+position:absolute;
+left:100px;
+top:130px;
+outline:0px;
+}
+
+#btn1
+{
+top:450px;
+position:absolute;
+left:130px;
+border-radius:50px;
+border-style:  outset;
+border-width: normal;
+width:30%
+}
+input
+{
+	  border: none;
+    background: transparent;
+}
+#seat
+{
+	border:1px solid black;
+}
